@@ -129,7 +129,6 @@
       <outline type="rss" title="Heydon Pickering" text="Heydon Pickering" htmlUrl="https://heydonworks.com/" xmlUrl="https://heydonworks.com/feed.xml"/>
       <outline type="rss" title="Hidde de Vries" text="Hidde de Vries" htmlUrl="https://hiddedevries.nl/" xmlUrl="https://hiddedevries.nl/rss/full/"/>
       <outline type="rss" title="Holger Bartel" text="Holger Bartel" htmlUrl="https://foobartel.com/" xmlUrl="https://foobartel.com/stream/feed"/>
-      <outline type="rss" title="Hugo Giraudel" text="Hugo Giraudel" htmlUrl="https://hugogiraudel.com/blog/" xmlUrl="https://hugogiraudel.com/rss"/>
       <outline type="rss" title="Hussein Al Hammad" text="Hussein Al Hammad" htmlUrl="https://hussein-alhammad.com/blog/" xmlUrl="https://hussein-alhammad.com/blog/rss.xml"/>
       <outline type="rss" title="Ire Aderinokun" text="Ire Aderinokun" htmlUrl="https://bitsofco.de/" xmlUrl="https://bitsofco.de/rss/"/>
       <outline type="rss" title="Jack Franklin" text="Jack Franklin" htmlUrl="https://www.jackfranklin.co.uk/blog/" xmlUrl="https://www.jackfranklin.co.uk/feed.xml"/>
@@ -139,6 +138,7 @@
       <outline type="rss" title="Jonnie Hallman" text="Jonnie Hallman" htmlUrl="https://destroytoday.com/blog" xmlUrl="https://destroytoday.com/feeds/all"/>
       <outline type="rss" title="Josh W. Comeau" text="Josh W. Comeau" htmlUrl="https://fossheim.io/writing/" xmlUrl="https://joshwcomeau.com/rss.xml"/>
       <outline type="rss" title="Kilian Valkhof" text="Kilian Valkhof" htmlUrl="https://kilianvalkhof.com/" xmlUrl="https://kilianvalkhof.com/feed/"/>
+      <outline type="rss" title="Kitty Giraudel" text="Kitty Giraudel" htmlUrl="https://kittygiraudel.com/blog/" xmlUrl="https://kittygiraudel.com/rss/index.xml"/>
       <outline type="rss" title="Krasimir Tsonev" text="Krasimir Tsonev" htmlUrl="https://krasimirtsonev.com/blog/" xmlUrl="https://krasimirtsonev.com/blog/rss"/>
       <outline type="rss" title="Laura Kalbag" text="Laura Kalbag" htmlUrl="https://laurakalbag.com/posts/" xmlUrl="https://laurakalbag.com/posts/index.xml"/>
       <outline type="rss" title="Lindsey Kopacz" text="Lindsey Kopacz" htmlUrl="https://www.a11ywithlindsey.com/blog" xmlUrl="https://www.a11ywithlindsey.com/rss.xml"/>
